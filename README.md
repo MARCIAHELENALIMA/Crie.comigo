@@ -1,2 +1,2 @@
 # Site-responsivo
-Projeto: Criar um site responsivo do zero
+Projeto: Criar um site responsivo
