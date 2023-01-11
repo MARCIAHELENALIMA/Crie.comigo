@@ -1,2 +1,2 @@
-# Crie.comigo
-Novo teste de conhecimento, criando um site multi língue
+# Site-responsivo
+Projeto: Criar um site responsivo do zero
